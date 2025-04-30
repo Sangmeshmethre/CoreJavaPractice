@@ -5,7 +5,7 @@ public class CreateException {
 	public static void main(String[] args)  {
 		System.out.println("throw statement start");
 		m1();
-		m12();
+		//m12();
 		System.out.println("throw statment end");
 	}
 	static void m1() throws ArithmeticException {
